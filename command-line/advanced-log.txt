@@ -1,0 +1,12 @@
+.:
+advanced-log.txt
+command-line-easy
+easy-log.txt
+files.txt
+gen-listing.sh
+hello-copy.txt
+intermediate-log.txt
+secret.txt
+
+./command-line-easy:
+test.txt
