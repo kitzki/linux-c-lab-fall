@@ -1,0 +1,13 @@
+Easy-Log txt
+
+PWD:
+/workspaces/linux-c-lab-fall/command-line/command-line-easy
+
+ls:
+test.txt
+
+hello-copy.txt:
+Hello, Linux!
+
+test.txt:
+Test
